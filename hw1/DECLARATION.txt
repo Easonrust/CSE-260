@@ -1,0 +1,13 @@
+                CSE 260 - Spring 2022 - Assignment #1
+                University of California, San Diego
+                Computer Science and Eingeering Department
+
+The undersigned declare that the work performed on this assignment was
+their own, and was carried out according to the Academic Integrity
+policies in effect for this course:
+https://sites.google.com/eng.ucsd.edu/cse260-spring-22/academic-integrity
+
+Signed,
+        Le  Yang (ley004@ucsd.edu) [04/21/22]
+        Zehui Jiao (zjiao@ucsd.edu) [04/21/22]
+------------------------------------------------

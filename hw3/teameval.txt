@@ -1,0 +1,54 @@
+                    CSE 260, Parallel Computation
+                            (FALL 2020)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+               Team Self Evaluation Form, Assignment #3
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: Le Yang
+
+ 
+B: Yongming He
+
+
+C: Zihan Zhang
+
+D: Zehui Jiao
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B 	       C 	       D
+meetings 	  	  	        5          5           5           5
+coding 	  	  	            10         10          10          10
+writeup 	  	  	        6          6           6           6
+planning (alone) 	  	  	2          2           2           2    
+total (including meetings) 	23         23          23          23	  	 
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+    The major responsibilities of each team member include discussion, review class and reading material, writing code and doing experiments, writing report.
+(b) Did you complete the assignment?
+    Yes, we complete the assignment
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+    In this assignment, the main task is to implement the ghost cell communication, initial condition distribute, optimzation and experiments. In this case, two of us implement the basic function, while the other two members try optimization and perform experiments. The strength is that each member can do work, while the weakness is that we main have some conflicts on the code to resolve.
+(d) What  lessons did you learn from these events.
+    Working in a team require every member to finish his/her own task, and collaborate with each other. At the beginning of the project, we need to make clear plan and then perform the tasks step by step.
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+    We have more virtual meetings to discuss and also use instant messenger to communicate.
+(f) Anything else that comes to mind.
+    Even in a team of 4, we need to have a leader to make final decisions, which can improve efficiency.
+
